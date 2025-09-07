@@ -3,3 +3,4 @@
 789
 Add Line
 conflict test1
+conflict test2
