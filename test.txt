@@ -5,4 +5,4 @@ Add Line
 conflict test1
 conflict test2
 conflict_branch
-Add Line12
+Add Line
